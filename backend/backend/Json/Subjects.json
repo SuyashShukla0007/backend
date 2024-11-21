@@ -1,0 +1,250 @@
+[
+    {
+      "name": "Draught & Flood",
+      "code": "CEOE-308",
+      "branch": "CE",
+      "sem": 6,
+      "seats": 60,
+      "eligibility": ["ME", "CS", "EC","EE"]
+    },
+    {
+      "name": "Sustainable Infrastructure",
+      "code": "CEOE-310",
+      "branch": "CE",
+      "sem": 6,
+      "seats": 60,
+      "eligibility": ["ME", "CS", "EC", "EE"]
+    },
+    {
+      "name": "Design and Analysis of Algorithms",
+      "code": "CSOE-302",
+      "branch": "CS",
+      "sem": 6,
+      "seats": 210,
+      "eligibility": ["EC", "C"]
+    },
+    {
+      "name": "Design and Analysis of Algorithms",
+      "code": "ITOE-302",
+      "branch": "IT",
+      "sem": 6,
+      "seats": 140,
+      "eligibility": ["EC", "C"]
+    },
+    {
+      "name": "Power Electronics Systems",
+      "code": "EEOE-305",
+      "branch": "EE",
+      "sem": 6,
+      "seats": 60,
+      "eligibility": ["ME", "CS", "EC", "C"]
+    },
+    {
+      "name": "Elements of Power Systems Engineering",
+      "code": "EEOE-306",
+      "branch": "EE",
+      "sem": 6,
+      "seats": 60,
+      "eligibility": ["ME", "CS", "EC", "C"]
+    },
+    {
+      "name": "Renewable Power Generation Systems",
+      "code": "EEOE-307",
+      "branch": "EE",
+      "sem": 6,
+      "seats": 60,
+      "eligibility":["ME", "CS", "EC", "C"]
+    },
+    {
+      "name": "Fuzzy Systems and Applications",
+      "code": "ECOE-303",
+      "branch": "EC",
+      "sem": 6,
+      "seats": 70,
+      "eligibility": ["ME", "CS", "EC", "C"]
+    },
+    {
+      "name": "Wireless Communication",
+      "code": "ECOE-304",
+      "branch": "EC",
+      "sem": 6,
+      "seats": 70,
+      "eligibility": ["ME", "CS", "EC", "C"]
+    },
+    {
+      "name": "Logic Design and Analysis using Verilog",
+      "code": "ECOE-304",
+      "branch": "EC",
+      "sem": 6,
+      "seats": 60,
+      "eligibility": ["ME", "CS", "C", "EE"]
+    },
+    {
+      "name": "Human Behaviour at Workplace",
+      "code": "HSOE-305",
+      "branch": "HS",
+      "sem": 6,
+      "seats": 60,
+      "eligibility": ["ME", "CS", "EC", "C", "EE"]
+    },
+    {
+        "name": "Intellectual Property Rights",
+        "code": "HSOE-306",
+        "branch": "HS",
+        "sem": 6,
+        "seats": 60,
+        "eligibility": ["ME", "CS", "EC", "C", "EE"]
+      },
+      {
+        "name": "Bio and Chemical Sensors",
+        "code": "CHOE-302",
+        "branch": "CH",
+        "sem": 6,
+        "seats": 80,
+        "eligibility": ["ME", "EC", "C", "EE"]
+      },
+      {
+        "name": "Physics of Advanced Semiconductor Devices ",
+        "code": "PHOE-303",
+        "branch": "PH",
+        "sem": 6,
+        "seats": 60,
+        "eligibility": ["ME", "CS", "EC", "C", "EE"]
+      },
+      {
+        "name": "Optical Fiber Communication Systems",
+        "code": "PHOE-304",
+        "branch": "PH",
+        "sem": 6,
+        "seats": 60,
+        "eligibility": ["ME", "CS", "EC", "C", "EE"]
+      },
+      {
+        "name": "Logistics & Supply Chain Management",
+        "code": "PIOE429",
+        "branch": "PI",
+        "sem": 6,
+        "seats": 60,
+        "eligibility": ["CS", "EC", "C", "EE"]
+      },
+      {
+        "name": "Renewable Energy Systems",
+        "code": "MEOE432",
+        "branch": "ME",
+        "sem": 6,
+        "seats": 60,
+        "eligibility": ["CS", "EC", "C", "EE"]
+      },
+      {
+        "name": "Industrial Engineering and Management",
+        "code": "PIOE427",
+        "branch": "PI",
+        "sem": 6,
+        "seats": 60,
+        "eligibility": ["CS", "EC", "C", "EE"]
+      },
+      {
+        "name": "Total Quality Management",
+        "code": "PIOE428",
+        "branch": "PI",
+        "sem": 6,
+        "seats": 60,
+        "eligibility": ["CS", "EC", "C", "EE"]
+      },
+    {
+      "name": "Hydro Power Engineering",
+      "code": "CEOE-16",
+      "branch": "CE",
+      "sem": 8,
+      "seats": 60,
+      "eligibility": ["ME", "CS", "EC", "C", "EE"]
+    },
+    {
+      "name": "Advanced Concrete Technology",
+      "code": "CEOE-18",
+      "branch": "CE",
+      "sem": 8,
+      "seats": 60,
+      "eligibility": ["ME", "CS", "EC", "C", "EE"]
+    },
+    {
+      "name": "Microcontrollers",
+      "code": "ECOE-80",
+      "branch": "EC",
+      "sem": 8,
+      "seats": 75,
+      "eligibility": ["CS"]
+    },
+    {
+      "name": "Sensor Technology",
+      "code": "ECOE-81",
+      "branch": "EC",
+      "sem": 8,
+      "seats": 75,
+      "eligibility": ["CS"]
+    },
+    {
+      "name": "Laser Technology",
+      "code": "PHOE-10",
+      "branch": "PH",
+      "sem": 8,
+      "seats": 120,
+      "eligibility": ["ME", "CS", "EC", "C", "EE"]
+    },
+    {
+      "name": "Ultrasonic and Applications",
+      "code": "PHOE-14",
+      "branch": "PH",
+      "sem": 8,
+      "seats": 120,
+      "eligibility": ["ME", "CS", "EC", "C", "EE"]
+    },
+    {
+      "name": "Database System",
+      "code": "CSOE-40",
+      "branch": "CS",
+      "sem": 8,
+      "seats": 160,
+      "eligibility": ["C", "EC"]
+    },
+    {
+      "name": "Soft Computing",
+      "code": "CSOE-42",
+      "branch": "CS",
+      "sem": 8,
+      "seats": 160,
+      "eligibility": ["C", "EC"]
+    },
+    {
+        "name": "Database System",
+        "code": "ITOE-40",
+        "branch": "IT",
+        "sem": 8,
+        "seats": 160,
+        "eligibility": ["C", "EC"]
+      },
+      {
+        "name": "Soft Computing",
+        "code": "ITOE-42",
+        "branch": "IT",
+        "sem": 8,
+        "seats": 160,
+        "eligibility": ["C", "EC"]
+      },
+    {
+      "name": "Functional Materials",
+      "code": "CHOE-11",
+      "branch": "CH",
+      "sem": 8,
+      "seats": 80,
+      "eligibility": ["ME", "CS", "EC", "C", "EE"]
+    },
+    {
+      "name": "Bio and Chemical Sensors",
+      "code": "CHOE-13",
+      "branch": "CH",
+      "sem": 8,
+      "seats": 80,
+      "eligibility": ["ME", "CS", "EC", "C", "EE"]
+    }
+  ]
